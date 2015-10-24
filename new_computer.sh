@@ -1,0 +1,1 @@
+sudo apt-get install build-essential openjdk-8-jdk texlive-binaries
